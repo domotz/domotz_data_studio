@@ -1,0 +1,14 @@
+{
+    "dataStudio": {
+        "name": "Domotz",
+        "logoUrl": "https://raw.githubusercontent.com/domotz/power_bi_domotz/main/domotz48.png",
+        "company": "Domotz",
+        "companyUrl": "https://www.domotz.com/",
+        "addonUrl": "https://github.com/domotz/domotz_data_studio",
+        "supportUrl": "https://github.com/domotz/domotz_data_studio/issues",
+        "description": "Connect with the Domotz Public API",
+        "authType": [
+            "KEY"
+        ]
+    }
+}
